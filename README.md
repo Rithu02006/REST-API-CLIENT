@@ -11,3 +11,14 @@
 *DURATION*: 6 WEEKS
 
 *MENTOR*:NEELA SANTHOSH
+
+*OUTPUT*
+
+Response from REST API:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati",
+  "body": "quia et suscipit suscipit recusandae"
+}
+
